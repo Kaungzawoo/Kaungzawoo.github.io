@@ -1,0 +1,30 @@
+h1,h2,h3,h4,h5,h6{ 
+    font-family: 'Noto Sans TC', sans-serif; 
+     color:pink; 
+    }
+    p,a,span,li,label{ 
+        font-family: 'Open Sans', sans-serif;  color:pink; 
+        }
+
+
+p{
+    color:rgba(252,186,3,0.8); 
+    font-size:40px; 
+    letter-spacing: 10px; 
+    line-height: 1.5; 
+    font-weight: 500; 
+    text-align:right; 
+    font-family: '標楷體', sans-serif; 
+ } 
+div { 
+    font-family:Arial,'Times New  Roman','Microsoft YaHei'; font:bold  12px/0.75em Arial,'Times New Roman','Microsoft  YaHei'; 
+    font-size:40px; 
+    line-height: 1.5; 
+    } 
+             
+ /*全部設定字體*/ 
+body { font-family: verdana, Times  New Roman, 新細明體, 微軟正⿊體; }
+           
+           
+           
+           
